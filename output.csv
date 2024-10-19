@@ -1,0 +1,38 @@
+Student ID,First Name,Last Name,Date Of Birth,Gender,Email,Phone Number,Address,Entrollment Date,Course
+63,Jane,Smith,Mon Feb 15 1999 00:00:00 GMT+0000 (Greenwich Mean Time),f,jane.smith@example.com,234-567-8901,234 Oak St,Fri Sep 01 2023 00:00:00 GMT+0100 (British Summer Time),Mathematics
+64,Alice,Johnson,Tue Mar 20 2001 00:00:00 GMT+0000 (Greenwich Mean Time),f,alice.johnson@example.com,345-678-9012,345 Pine St,Fri Sep 01 2023 00:00:00 GMT+0100 (British Summer Time),Biology
+65,Bob,Brown,Fri Apr 10 1998 00:00:00 GMT+0100 (British Summer Time),m,bob.brown@example.com,456-789-0123,456 Maple St,Fri Sep 01 2023 00:00:00 GMT+0100 (British Summer Time),Chemistry
+66,Charlie,Davis,Sat May 25 2002 00:00:00 GMT+0100 (British Summer Time),m,charlie.davis@example.com,567-890-1234,567 Cedar St,Fri Sep 01 2023 00:00:00 GMT+0100 (British Summer Time),Physics
+67,Diana,Garcia,Fri Jun 30 2000 00:00:00 GMT+0100 (British Summer Time),f,diana.garcia@example.com,678-901-2345,678 Birch St,Fri Sep 01 2023 00:00:00 GMT+0100 (British Summer Time),History
+68,Ethan,Martinez,Fri Jul 04 1997 00:00:00 GMT+0100 (British Summer Time),m,ethan.martinez@example.com,789-012-3456,789 Fir St,Fri Sep 01 2023 00:00:00 GMT+0100 (British Summer Time),Literature
+69,Fiona,Lopez,Tue Aug 12 2003 00:00:00 GMT+0100 (British Summer Time),f,fiona.lopez@example.com,890-123-4567,890 Spruce St,Fri Sep 01 2023 00:00:00 GMT+0100 (British Summer Time),Art
+70,George,Wilson,Sun Sep 19 1999 00:00:00 GMT+0100 (British Summer Time),m,george.wilson@example.com,901-234-5678,901 Chestnut St,Fri Sep 01 2023 00:00:00 GMT+0100 (British Summer Time),Engineering
+71,Hannah,Anderson,Mon Oct 15 2001 00:00:00 GMT+0100 (British Summer Time),f,hannah.anderson@example.com,012-345-6789,123 Walnut St,Fri Sep 01 2023 00:00:00 GMT+0100 (British Summer Time),Nursing
+72,Isaac,Thomas,Sat Nov 28 1998 00:00:00 GMT+0000 (Greenwich Mean Time),m,isaac.thomas@example.com,123-456-7890,234 Hickory St,Fri Sep 01 2023 00:00:00 GMT+0100 (British Summer Time),Business
+73,Julia,Taylor,Mon Dec 11 2000 00:00:00 GMT+0000 (Greenwich Mean Time),f,julia.taylor@example.com,234-567-8901,345 Poplar St,Fri Sep 01 2023 00:00:00 GMT+0100 (British Summer Time),Psychology
+74,Kevin,Moore,Fri Jan 01 1999 00:00:00 GMT+0000 (Greenwich Mean Time),m,kevin.moore@example.com,345-678-9012,456 Willow St,Fri Sep 01 2023 00:00:00 GMT+0100 (British Summer Time),Philosophy
+75,Liam,Jackson,Sat Feb 02 2002 00:00:00 GMT+0000 (Greenwich Mean Time),m,liam.jackson@example.com,456-789-0123,567 Ash St,Fri Sep 01 2023 00:00:00 GMT+0100 (British Summer Time),Mathematics
+76,Mia,White,Sat Mar 03 2001 00:00:00 GMT+0000 (Greenwich Mean Time),f,mia.white@example.com,567-890-1234,678 Cedar St,Fri Sep 01 2023 00:00:00 GMT+0100 (British Summer Time),History
+78,Olivia,Martin,Sun May 05 2002 00:00:00 GMT+0100 (British Summer Time),f,olivia.martin@example.com,789-012-3456,890 Pine St,Fri Sep 01 2023 00:00:00 GMT+0100 (British Summer Time),Biology
+80,Quinn,Garcia,Sat Jul 07 2001 00:00:00 GMT+0100 (British Summer Time),f,quinn.garcia@example.com,901-234-5678,123 Fir St,Fri Sep 01 2023 00:00:00 GMT+0100 (British Summer Time),Chemistry
+81,Ryan,Martinez,Tue Aug 08 2000 00:00:00 GMT+0100 (British Summer Time),m,ryan.martinez@example.com,012-345-6789,234 Cedar St,Fri Sep 01 2023 00:00:00 GMT+0100 (British Summer Time),Computer Science
+82,Sophia,Lopez,Wed Sep 09 1998 00:00:00 GMT+0100 (British Summer Time),f,sophia.lopez@example.com,123-456-7890,345 Walnut St,Fri Sep 01 2023 00:00:00 GMT+0100 (British Summer Time),Nursing
+83,Tyler,Wilson,Thu Oct 10 2002 00:00:00 GMT+0100 (British Summer Time),m,tyler.wilson@example.com,234-567-8901,456 Hickory St,Fri Sep 01 2023 00:00:00 GMT+0100 (British Summer Time),Psychology
+84,Ursula,Anderson,Tue Nov 11 2003 00:00:00 GMT+0000 (Greenwich Mean Time),f,ursula.anderson@example.com,345-678-9012,567 Maple St,Fri Sep 01 2023 00:00:00 GMT+0100 (British Summer Time),Business
+85,Victor,Johnson,Wed Dec 12 2001 00:00:00 GMT+0000 (Greenwich Mean Time),m,victor.johnson@example.com,456-789-0123,678 Poplar St,Fri Sep 01 2023 00:00:00 GMT+0100 (British Summer Time),Art
+86,Wendy,Clark,Sat Jan 01 2000 00:00:00 GMT+0000 (Greenwich Mean Time),f,wendy.clark@example.com,567-890-1234,789 Spruce St,Fri Sep 01 2023 00:00:00 GMT+0100 (British Summer Time),Engineering
+87,Xavier,Rodriguez,Mon Feb 15 1999 00:00:00 GMT+0000 (Greenwich Mean Time),m,xavier.rodriguez@example.com,678-901-2345,890 Chestnut St,Fri Sep 01 2023 00:00:00 GMT+0100 (British Summer Time),Philosophy
+88,Yara,Lewis,Tue Mar 20 2001 00:00:00 GMT+0000 (Greenwich Mean Time),f,yara.lewis@example.com,789-012-3456,901 Walnut St,Fri Sep 01 2023 00:00:00 GMT+0100 (British Summer Time),History
+89,Zachary,Young,Fri Apr 10 1998 00:00:00 GMT+0100 (British Summer Time),m,zachary.young@example.com,890-123-4567,123 Pine St,Fri Sep 01 2023 00:00:00 GMT+0100 (British Summer Time),Chemistry
+90,Ava,King,Sat May 25 2002 00:00:00 GMT+0100 (British Summer Time),f,ava.king@example.com,901-234-5678,234 Fir St,Fri Sep 01 2023 00:00:00 GMT+0100 (British Summer Time),Mathematics
+91,Benjamin,Scott,Fri Jun 30 2000 00:00:00 GMT+0100 (British Summer Time),m,benjamin.scott@example.com,012-345-6789,345 Maple St,Fri Sep 01 2023 00:00:00 GMT+0100 (British Summer Time),Biology
+92,Catherine,Green,Sun Jul 04 1999 00:00:00 GMT+0100 (British Summer Time),f,catherine.green@example.com,123-456-7890,456 Oak St,Fri Sep 01 2023 00:00:00 GMT+0100 (British Summer Time),Physics
+93,Daniel,Adams,Sun Aug 12 2001 00:00:00 GMT+0100 (British Summer Time),m,daniel.adams@example.com,234-567-8901,567 Pine St,Fri Sep 01 2023 00:00:00 GMT+0100 (British Summer Time),Computer Science
+94,Ella,Baker,Sat Sep 19 1998 00:00:00 GMT+0100 (British Summer Time),f,ella.baker@example.com,345-678-9012,678 Cedar St,Fri Sep 01 2023 00:00:00 GMT+0100 (British Summer Time),Nursing
+95,Felix,Gonzalez,Tue Oct 15 2002 00:00:00 GMT+0100 (British Summer Time),m,felix.gonzalez@example.com,456-789-0123,789 Birch St,Fri Sep 01 2023 00:00:00 GMT+0100 (British Summer Time),History
+96,Grace,Nelson,Tue Nov 28 2000 00:00:00 GMT+0000 (Greenwich Mean Time),f,grace.nelson@example.com,567-890-1234,890 Fir St,Fri Sep 01 2023 00:00:00 GMT+0100 (British Summer Time),Literature
+97,Henry,Carter,Sat Dec 11 1999 00:00:00 GMT+0000 (Greenwich Mean Time),m,henry.carter@example.com,678-901-2345,901 Maple St,Fri Sep 01 2023 00:00:00 GMT+0100 (British Summer Time),Art
+98,Isla,Mitchell,Wed Jan 01 2003 00:00:00 GMT+0000 (Greenwich Mean Time),f,isla.mitchell@example.com,789-012-3456,123 Oak St,Fri Sep 01 2023 00:00:00 GMT+0100 (British Summer Time),Chemistry
+100,mitesh,devganiya,Sat Feb 01 2003 00:00:00 GMT+0000 (Greenwich Mean Time),m,midnsfa@gmial.com123,353894970597,APARTMENT 36 ,Mon Oct 14 2024 00:00:00 GMT+0100 (British Summer Time),msc in cloud computing
+104,Choota, Bheem,Wed Sep 08 1999 00:00:00 GMT+0100 (British Summer Time),f,chootachu@gmail.com,3456789,dscsc,Fri Feb 22 2222 00:00:00 GMT+0000 (Greenwich Mean Time),msc in cloud computing
+107,ikenna friend,ughanze,Tue Feb 22 2022 00:00:00 GMT+0000 (Greenwich Mean Time),m,adxfcvn@gmail.com,547869890,xchgnv,Wed Oct 23 2024 00:00:00 GMT+0100 (British Summer Time),msc in cloud
